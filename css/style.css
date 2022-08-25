@@ -104,8 +104,10 @@ img {
     color: var(--color-white);
 }
 
+ /* ===========================================NAVBAR ===================================== */
+
 nav {
-    background: transparent;
+    background: red;
     width: 100vw;
     height: 5rem;
     position: fixed;
